@@ -4,11 +4,11 @@
   "private": true,
   "license": "UNLICENSED",
   "devDependencies": {
-    "@fitbit/sdk": "~3.0.0",
+    "@fitbit/sdk": "^3.0.0",
     "@fitbit/sdk-cli": "^1.5.0"
   },
   "fitbit": {
-    "appUUID": "6a61b4c7-c375-4324-8484-f93ebeb52055",
+    "appUUID": "b14ea51c-be98-474a-8862-9f36298cc450",
     "appType": "clockface",
     "appDisplayName": "Illium Clockface",
     "iconFile": "resources/icon.png",
